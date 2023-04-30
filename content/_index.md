@@ -7,15 +7,14 @@ header_button_cta:
 header_button_more:
   url: "#cortex-liquidation"
   title: "All the scams"
-teaser_image:
-"https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ur1PMGzTFePrXXIm4xLccsfWRubjc9-Ui3VvYj2z_nUfVn7StxIWPNz9GWJnvKc0PTsz4sUsRyQS/pubchart?oid=1295906111&format=image" # https://www.pexels.com/search/product%20testing/
+teaser_image: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ur1PMGzTFePrXXIm4xLccsfWRubjc9-Ui3VvYj2z_nUfVn7StxIWPNz9GWJnvKc0PTsz4sUsRyQS/pubchart?oid=1295906111&format=image" # https://www.pexels.com/search/product%20testing/
 ---
 
 # Cortex Liquidation
+
 EFFECTIVE MARCH 31, 2023, THE COMPANY HAS CEASED OPERATING ITS BUSINESS. THE COMPANY IS IN THE PROCESS OF WINDING DOWN AND LIQUIDATING ITS ASSETS. 
 
 ---
-
 
 # About Cortex 
 
