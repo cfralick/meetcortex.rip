@@ -1,12 +1,12 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "Cortex Automation RIP"
+header_tagline_paragraph: "Operator of little-used marketing software platform and Techstars Boston graduate defrauded its customers, misled its investors, and lost all their money." 
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
+  title: "All the scams"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
