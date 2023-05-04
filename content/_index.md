@@ -1,6 +1,6 @@
 ---
 header_brand: "RIP Cortex Automation"
-header_tagline_paragraph: "EFFECTIVE MARCH 31, 2023, THE COMPANY HAS CEASED OPERATING ITS BUSINESS. THE COMPANY IS IN THE PROCESS OF WINDING DOWN AND LIQUIDATING ITS ASSETS." 
+header_tagline_paragraph: "EFFECTIVE MARCH 31, 2023, THE COMPANY HAS CEASED OPERATING ITS BUSINESS" 
 header_button_cta:
   url: "https://www.sec.gov/Archives/edgar/data/1619790/000161979023000001/cortexformcar.pdf"
   title: "Final Annual Report"
