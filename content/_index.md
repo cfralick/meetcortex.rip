@@ -7,10 +7,15 @@ header_button_cta:
 header_button_more:
   url: "https://www.sec.gov/edgar/browse/?CIK=0001619790"
   title: "All SEC Filings"
-teaser_image: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ur1PMGzTFePrXXIm4xLccsfWRubjc9-Ui3VvYj2z_nUfVn7StxIWPNz9GWJnvKc0PTsz4sUsRyQS/pubchart?oid=1295906111&format=image" # https://www.pexels.com/search/product%20testing/
+teaser_image: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ur1PMGzTFePrXXIm4xLccsfWRubjc9-Ui3VvYj2z_nUfVn7StxIWPNz9GWJnvKc0PTsz4sUsRyQS/pubchart?oid=527241716&format=image" # https://www.pexels.com/search/product%20testing/
 ---
 
 For almost 10 years, self-styoled founders of [Cortex Automation](http://meetcortex.com) [Brennan White](https://www.linkedin.com/in/brennanwhite) and [Matt Peters](https://www.linkedin.com/in/mattkpeters) fabricated data, defrauded their customers, and misled their investors. The entire business was a sham. 
+
+Hanna Green reported [Cortex's](http://www.meetcortex.com) foundering ([An AI startup from Techstars Boston's class of 2020 shuts down](https://www.bizjournals.com/boston/inno/stories/news/2023/05/04/cortex-automation-shuts-down.html)) for BostInno.
+
+[Cortex](http://www.meetcortex.com) may be the only startup to graduate from Techstars and then promptly loose half
+their revenue two years in a row. 
 
 ![Prototype Work](images/b.jpeg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
