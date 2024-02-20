@@ -26,8 +26,7 @@ After Cortex finished Techstars, it released a complete redesign, which was terr
 * most of the major social networks started restricting API access
 * Companies like OpenAI started releasing products that, to say the least, didn't return unintelligible gibberish
 
-Cortex lost 80% of their revenue in 3 years. In 2023 they folded. They have not returned the software they stole to its
-owner. 
+Cortex lost 80% of their revenue in 3 years. In 2023 they folded. They have not returned the software they stole to its owner. 
 
 
 ![Prototype Work](images/b.jpeg) <!-- https://www.pexels.com/search/product%20testing/ -->
