@@ -13,7 +13,7 @@ header_button_more:
 teaser_image: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ur1PMGzTFePrXXIm4xLccsfWRubjc9-Ui3VvYj2z_nUfVn7StxIWPNz9GWJnvKc0PTsz4sUsRyQS/pubchart?oid=527241716&format=image" # https://www.pexels.com/search/product%20testing/
 ---
 
-##What was [Cortex Automation](https://web.archive.org/web/20230209000946/https://www.meetcortex.com/)? 
+## What was [Cortex Automation](https://web.archive.org/web/20230209000946/https://www.meetcortex.com/)? 
 
 The project that became Cortex was founded in 2012 was originally a social network data logger that provided Facebook metrics for your competitors, as if you were an admin on their Pages.
 
@@ -22,8 +22,7 @@ In 2014, [Brennan White](https://www.linkedin.com/in/brennanwhite) and [Matt Pet
 Investors including Jere Doyle and Techstars Boston knew Cortex was a sham and gave them money anyway. Journalists knew
 Matt and Brennan had lied to them and ignored it.
 
-After Cortex finished Techstars, it released a complete redesign, which was terribly designed and frequently just returned
-gibberish. No one at the company noticed that while they were working on this amateurish new version:
+After Cortex finished Techstars, it released a complete redesign, which was terribly designed and frequently just returned gibberish. No one at the company noticed that while they were working on this amateurish new version:
 * most of the major social networks started restricting API access
 * Companies like OpenAI started releasing products that, to say the least, didn't return unintelligible gibberish
 
