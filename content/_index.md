@@ -19,8 +19,7 @@ The project that became Cortex was founded in 2012 was originally a social netwo
 
 In 2014, [Brennan White](https://www.linkedin.com/in/brennanwhite) and [Matt Peters](https://www.linkedin.com/in/mattkpeters) stole it and renamed it Cortex. They started claiming it was an "AI" because that made it easier to dupe people into subscribing or investing and hired one developer to make Cortex show customers fake data, and another who copied source code belonging to his previous employer into Cortex and spent years trying to copy [Buffer](https://buffer.com). 
 
-Investors including Jere Doyle and Techstars Boston knew Cortex was a sham and gave them money anyway. Journalists knew
-Matt and Brennan had lied to them and ignored it.
+Investors including Jere Doyle and Techstars Boston knew Cortex was a sham and gave them money anyway. Journalists knew Matt and Brennan had lied to them and ignored it.
 
 After Cortex finished Techstars, it released a complete redesign, which was terribly designed and frequently just returned gibberish. No one at the company noticed that while they were working on this amateurish new version:
 * most of the major social networks started restricting API access
