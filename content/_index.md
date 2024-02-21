@@ -32,7 +32,7 @@ After Cortex finished Techstars, it released a complete redesign, which was terr
 Cortex lost 80% of its revenue in 3 years. In 2022, against projected revenues of $6,000,000, actual revenue was $250,000. Cortex shut down in 2023. It has not returned the software itvstole to its owner. 
 
 ## The Founderers
-![Matt Peters and Brennan White](https://media.bizj.us/view/img/11759055/cortex-pandemic-labs*1200xx2241-1681-159-0.jpg) "Matt Peters and Brennan White"
+![Matt Peters and Brennan White](https://media.bizj.us/view/img/11759055/cortex-pandemic-labs*1200xx2241-1681-159-0.jpg "Matt Peters and Brennan White")
 
 ## Media Coverage
 Hanna Green reported [Cortex's](http://www.meetcortex.com) foundering ([An AI startup from Techstars Boston's class of 2020 shuts down](https://www.bizjournals.com/boston/inno/stories/news/2023/05/04/cortex-automation-shuts-down.html)) for BostInno.
