@@ -78,3 +78,6 @@
 }
 */
 header .mx-auto > div.flex { align-items: center;}
+header#header div div div.mt-12.mx-auto.hidden {
+display:inherit;
+}
