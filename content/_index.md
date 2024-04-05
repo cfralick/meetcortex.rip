@@ -41,7 +41,7 @@ Cortex lost 80% of its revenue in 3 years. In 2022, against projected revenues o
 
 ## Additional Data Resources
 ![Cortex Total Net Loss](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ur1PMGzTFePrXXIm4xLccsfWRubjc9-Ui3VvYj2z_nUfVn7StxIWPNz9GWJnvKc0PTsz4sUsRyQS/pubchart?oid=1063707347&format=image "Net Loss")
-![Revenue and Net Income 2017-2023](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ur1PMGzTFePrXXIm4xLccsfWRubjc9-Ui3VvYj2z_nUfVn7StxIWPNz9GWJnvKc0PTsz4sUsRyQS/pubchart?oid=2002789382&format=interactive "Revenue and Net Income 2017-2023")
+![Revenue and Net Income 2017-2023](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ur1PMGzTFePrXXIm4xLccsfWRubjc9-Ui3VvYj2z_nUfVn7StxIWPNz9GWJnvKc0PTsz4sUsRyQS/pubchart?oid=2002789382&format=image "Revenue and Net Income 2017-2023")
 
 ## Press
 Hanna Green reported [Cortex's](http://www.meetcortex.com) foundering ([An AI startup from Techstars Boston's class of 2020 shuts down](https://www.bizjournals.com/boston/inno/stories/news/2023/05/04/cortex-automation-shuts-down.html)) for BostInno.
