@@ -47,9 +47,7 @@ Cortex lost 80% of its revenue in 3 years. In 2022, against projected revenues o
 Hanna Green reported [Cortex's](http://www.meetcortex.com) foundering ([An AI startup from Techstars Boston's class of 2020 shuts down](https://www.bizjournals.com/boston/inno/stories/news/2023/05/04/cortex-automation-shuts-down.html)) for BostInno.
 
 ## Further Reading
-* [Keep Your AI Claims In Check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check): The
-  Federal Trade Commission's guidance on how to not be misrepresent your company as an AI startup like Cortex
-  Automation did.
+* [Keep Your AI Claims In Check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check): The Federal Trade Commission's guidance on how to not be misrepresent your company as an AI startup like Cortex Automation did.
 
 ## Contact
 
