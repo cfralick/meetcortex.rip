@@ -21,10 +21,10 @@ title = "Cortex Automation RIP"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "©2023 Meetcortex.rip"
+    copyright = "©2024 Meetcortex.rip | +1 808 435 2085 | Boston, MA"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Matt Peters, Brennan White, and the foundering of Cortex Automation."
+    description = "The origin and foundering of Cortex Automation, a Techstars Boston graduate and fake AI startup."
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.

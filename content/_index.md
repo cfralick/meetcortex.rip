@@ -1,6 +1,6 @@
 ---
 title: "Cortex Automation RIP"
-description: "The foundering of Cortex Automation: Matt Peters and Brennan White deceived their customers, investors,
+description: "The origin and foundering of Cortex Automation: Matt Peters and Brennan White deceived their customers, investors,
 and employees"
 header_brand: "RIP Cortex Automation"
 header_tagline_paragraph: "Cortex Lost Half Its Revenue in 2021" 
@@ -18,18 +18,18 @@ Cortex Automation (also known as Cortex, MeetCortex, and Watchtower) was an ille
 
 ## How Cortex Was Founderered
 
-#### Origin
+#### Origin: December 2012
 The project that became [Cortex Automation](http://www.meetcortex.com/) was founded in late 2012 and added its first paying customers in 2013. It was a social media analytics tool that provided advanced metrics on your competitors' Facebook pages.
 
-#### Theft
-In 2014, [Brennan White](https://www.linkedin.com/in/brennanwhite) and [Matt Peters](https://www.linkedin.com/in/mattkpeters) stole it and renamed it Cortex. 
+#### Theft: May 2014
+[Brennan White](https://www.linkedin.com/in/brennanwhite) and [Matt Peters](https://www.linkedin.com/in/mattkpeters) stole it and renamed it Cortex. 
 
-#### Fraud 
+#### Fraud: 2014 - 2023
 They started claiming it was an "AI" to impress potential investors and customers. In reality, Cortex used nothing more than basic arithmetic and publicly available data.  Matt and Brennan hired one developer to make Cortex show customers fake data, and another who copied source code belonging to his previous employer into Cortex and spent years trying to copy [Buffer](https://buffer.com). 
 
 Investors including Jere Doyle and Techstars Boston knew Cortex was a sham and gave them money anyway. Journalists from [The Boston Herald](https://www.bostonherald.com), [VentureBeat](https://www.venturebeat.com), and elsewhere knew Matt and Brennan had lied to them and ignored it. Organizations such as the [Young Entrepreneur's Council](https://yec.co) knew too. In all, Cortex defrauded investors out of $2 million from 2014 to 2021, and never managed to copy [Buffer](https://buffer.com).
 
-#### Foundering
+#### Foundering: 2021 - 2023
 After Cortex finished Techstars, it released a complete redesign, which was terribly designed and frequently just returned gibberish. No one at the company noticed that while they were working on this amateurish new version:
 * most of the major social networks started restricting API access
 * Companies like OpenAI started releasing products that, to say the least, didn't return unintelligible gibberish
